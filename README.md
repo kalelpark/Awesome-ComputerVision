@@ -19,6 +19,7 @@
 |**[IOU(Intersection Over Union)](https://blog.naver.com/qkrdnjsrl0628/222815344155)**|None|Metric|
 |**[NMS(None Maximum Suppression)](https://blog.naver.com/qkrdnjsrl0628/222815369995)**|None|Metric|
 |**[mAP(Mean Average Precision)](https://blog.naver.com/qkrdnjsrl0628/222815918455)**|None|Metric|
+|**[R-CNN](https://blog.naver.com/qkrdnjsrl0628/222818945250)**|2013|Detection|
 
 ## Image Segmentation
 
