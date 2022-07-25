@@ -11,6 +11,8 @@
 |**[AlexNet](https://blog.naver.com/qkrdnjsrl0628/222813177209)**|2012|Classification|
 |**[VGGNet](https://blog.naver.com/qkrdnjsrl0628/222813654254)**|2014|Classification|
 |**[GoogLeNet](https://blog.naver.com/qkrdnjsrl0628/222817390908)**|2014|Classification|
+|**[InceptionNet](https://blog.naver.com/qkrdnjsrl0628/222827718753)**|2015|Classification|
+
 
 ## Object Detection
 
