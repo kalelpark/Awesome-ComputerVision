@@ -13,6 +13,7 @@
 |**[GoogLeNet](https://blog.naver.com/qkrdnjsrl0628/222817390908)**|2014|Classification|
 |**[InceptionNet](https://blog.naver.com/qkrdnjsrl0628/222827718753)**|2015|Classification|
 |**[ResNet](https://blog.naver.com/qkrdnjsrl0628/222828002244)**|2015|Classification|
+|**[DenseNet](https://blog.naver.com/qkrdnjsrl0628/222831048488)**|2017|Classification|
 
 
 ## Object Detection
