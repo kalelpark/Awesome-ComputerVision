@@ -36,3 +36,13 @@
 |**[AlexNet](https://blog.naver.com/qkrdnjsrl0628/222813177209)**|2012|Classification|
 |**[VGGNet](https://blog.naver.com/qkrdnjsrl0628/222813654254)**|2014|Classification|-->
 
+
+<hr>
+
+
+### Tabular Data📊
+
+|Name|Year|Field|
+|---|---|---|
+|**[TabNet](https://blog.naver.com/qkrdnjsrl0628/222836423300)**|2019|Tabular|
+
