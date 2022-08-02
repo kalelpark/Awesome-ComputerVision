@@ -26,6 +26,8 @@
 |**[mAP(Mean Average Precision)](https://blog.naver.com/qkrdnjsrl0628/222815918455)**|None|Metric|
 |**[R-CNN](https://blog.naver.com/qkrdnjsrl0628/222818945250)**|2013|Detection|
 |**[Faster R-CNN](https://blog.naver.com/qkrdnjsrl0628/222835401836)**|2015|Detection|
+|**[FPN(Feature Pyramids Network)](https://blog.naver.com/qkrdnjsrl0628/222837350331)**|2017|Detection|
+
 
 
 ## Image Segmentation
