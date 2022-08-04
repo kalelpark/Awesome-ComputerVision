@@ -44,7 +44,7 @@
 <hr>
 
 
-### Tabular Data📊
+### Tabular Data
 
 |Name|Year|Field|
 |---|---|---|
