@@ -1,9 +1,9 @@
 # AI REVIEW & Implement
 
-###  Computer Vision with Pytorch🔥
+# Computer Vision
 <hr>
 
-## Image Classification
+### Image Classification
 
 |Name|Year|Field|
 |---|---|---|
@@ -17,7 +17,7 @@
 |**[CBAM](https://blog.naver.com/qkrdnjsrl0628/222831713425)**|2018|Attention Block|
 
 
-## Object Detection
+### Object Detection
 
 |Name|Year|Field|
 |---|---|---|
@@ -31,7 +31,7 @@
 
 
 
-## Image Segmentation
+### Image Segmentation
 
 |Name|Year|Field|
 |---|---|---|
@@ -44,7 +44,7 @@
 <hr>
 
 
-### Tabular Data
+# Tabular Data
 
 |Name|Year|Field|
 |---|---|---|
