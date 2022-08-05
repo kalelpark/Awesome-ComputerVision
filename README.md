@@ -27,6 +27,7 @@
 |**[R-CNN](https://blog.naver.com/qkrdnjsrl0628/222818945250)**|2013|Detection|
 |**[Faster R-CNN](https://blog.naver.com/qkrdnjsrl0628/222835401836)**|2015|Detection|
 |**[OHEM(Online Hard Example Mining)](https://blog.naver.com/qkrdnjsrl0628/222839193767)**|2016|Detection|
+|**[YOLOv1(You Only Look Once)](https://blog.naver.com/qkrdnjsrl0628/222840608410)**|2016|Detection|
 |**[FPN(Feature Pyramids Network)](https://blog.naver.com/qkrdnjsrl0628/222837350331)**|2017|Detection|
 
 
