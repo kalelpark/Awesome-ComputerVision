@@ -43,9 +43,14 @@
 |**[AlexNet](https://blog.naver.com/qkrdnjsrl0628/222813177209)**|2012|Classification|
 |**[VGGNet](https://blog.naver.com/qkrdnjsrl0628/222813654254)**|2014|Classification|-->
 
+### BASE
+|Name|
+|---|
+|**[CNN Base](https://github.com/kalelpark/AI_REVIEW/blob/main/1.Base/%5B%20BASE%20%5D%20CNN%20%EC%9D%B4%ED%95%B4.pdf)**|
+|**[Convolutional Mechanism](https://blog.naver.com/qkrdnjsrl0628/222842147356)**|
+
 
 <hr>
-
 
 # Tabular Data
 
