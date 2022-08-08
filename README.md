@@ -1,4 +1,5 @@
 # AI REVIEW & Implement
+**🌟If you find any errors or corrections, leave an ISSUE**
 
 # Computer Vision
 <hr>
