@@ -4,7 +4,7 @@
 # Computer Vision
 <hr>
 
-### Image Classification
+### Classification
 
 |Name|Year|Field|
 |---|---|---|
@@ -35,11 +35,13 @@
 
 
 
-### Image Segmentation
+### Segmentation
 
 |Name|Year|Field|
 |---|---|---|
 |**[DeepLabV1](https://blog.naver.com/qkrdnjsrl0628/222838265701)**|2014|Segmentation|
+|**[FCN(Fully Convolutional Layer)](https://blog.naver.com/qkrdnjsrl0628/222843708131)**|2015|Segmentation|
+
 <!--|**[LeNet](https://blog.naver.com/qkrdnjsrl0628/222809194992)**|1998|Classification|
 |**[AlexNet](https://blog.naver.com/qkrdnjsrl0628/222813177209)**|2012|Classification|
 |**[VGGNet](https://blog.naver.com/qkrdnjsrl0628/222813654254)**|2014|Classification|-->
