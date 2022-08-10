@@ -46,6 +46,12 @@
 |**[AlexNet](https://blog.naver.com/qkrdnjsrl0628/222813177209)**|2012|Classification|
 |**[VGGNet](https://blog.naver.com/qkrdnjsrl0628/222813654254)**|2014|Classification|-->
 
+### Generative Adversarial
+|Name|Year|Field|
+|---|---|---|
+|**[Generative Adversarial Nets](https://blog.naver.com/qkrdnjsrl0628/222844575597)**|2014|GAN|
+
+
 ### BASE
 |Name|
 |---|
