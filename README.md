@@ -50,6 +50,7 @@
 |Name|Year|Field|
 |---|---|---|
 |**[Generative Adversarial Nets](https://blog.naver.com/qkrdnjsrl0628/222844575597)**|2014|GAN|
+|**[DCGAN(Deep Conloutional Generative Adversarial Nets)](https://blog.naver.com/qkrdnjsrl0628/222846050013)**|2016|GAN|
 
 
 ### BASE
