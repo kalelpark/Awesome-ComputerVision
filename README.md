@@ -6,67 +6,61 @@
 
 ### Classification
 
-|Name|Year|Field|
-|---|---|---|
-|**[LeNet](https://blog.naver.com/qkrdnjsrl0628/222809194992)**|1998|Classification|
-|**[AlexNet](https://blog.naver.com/qkrdnjsrl0628/222813177209)**|2012|Classification|
-|**[VGGNet](https://blog.naver.com/qkrdnjsrl0628/222813654254)**|2014|Classification|
-|**[GoogLeNet](https://blog.naver.com/qkrdnjsrl0628/222817390908)**|2014|Classification|
-|**[InceptionNet](https://blog.naver.com/qkrdnjsrl0628/222827718753)**|2015|Classification|
-|**[ResNet](https://blog.naver.com/qkrdnjsrl0628/222828002244)**|2015|Classification|
-|**[DenseNet](https://blog.naver.com/qkrdnjsrl0628/222831048488)**|2017|Classification|
-|**[XceptionNet](https://blog.naver.com/qkrdnjsrl0628/222846595140)**|2017|Classification|
-|**[MobileNet](https://blog.naver.com/qkrdnjsrl0628/222841809802)**|2017|Classification|
-|**[CBAM](https://blog.naver.com/qkrdnjsrl0628/222831713425)**|2018|Attention Block|
-
+|Name|Year|Field|PDF|CODE|
+|---|---|---|---|---|
+|**[LeNet](https://blog.naver.com/qkrdnjsrl0628/222809194992)**|1998|Classification|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Classification/LeNet5/%5B%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0%5D%20LeNet5%20(1998).pdf)|[CODE](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Classification/LeNet5/code/lenet5)|
+|**[AlexNet](https://blog.naver.com/qkrdnjsrl0628/222813177209)**|2012|Classification|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Classification/AlexNet/%5B2012%5DAlexNet%20%5BClassification%5D.pdf)|[CODE](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Classification/AlexNet/AlexNet.py)|
+|**[VGGNet](https://blog.naver.com/qkrdnjsrl0628/222813654254)**|2014|Classification|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Classification/VGGNet/%5B%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0%5D%20VGGNet%20(2014).pdf)|[CODE](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Classification/VGGNet/code/vggnet.py)|
+|**[GoogLeNet](https://blog.naver.com/qkrdnjsrl0628/222817390908)**|2014|Classification|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Classification/GoogLeNet/%5B%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0%5DGoogLeNet%20%5B2014%5D.pdf)|[CODE](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Classification/GoogLeNet/code/GoogLeNet.py)|
+|**[InceptionNet](https://blog.naver.com/qkrdnjsrl0628/222827718753)**|2015|Classification|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Classification/InceptionNet/%5B%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B5%E1%84%87%E1%85%B2%5DInceptionV3%5B2015%5D.pdf)|Later|
+|**[ResNet](https://blog.naver.com/qkrdnjsrl0628/222828002244)**|2015|Classification|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Classification/ResNet/%5B%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B5%E1%84%87%E1%85%B2%5D%20ResNet%20%5B2015%5D.pdf)|[CODE](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Classification/ResNet/ResNet.py)|
+|**[DenseNet](https://blog.naver.com/qkrdnjsrl0628/222831048488)**|2017|Classification|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Classification/DenseNet/%5B%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B5%E1%84%87%E1%85%B2%5D%20DenseNet%20%5B2017%5D.pdf)|[CODE](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Classification/DenseNet/denseNet.py)|
+|**[XceptionNet](https://blog.naver.com/qkrdnjsrl0628/222846595140)**|2017|Classification|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Classification/Xception/%5B%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B5%E1%84%87%E1%85%B2%5D%20Xception%20%5B2017%5D.pdf)|Later|
+|**[MobileNet](https://blog.naver.com/qkrdnjsrl0628/222841809802)**|2017|Classification|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Classification/CBAM/%5B%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B5%E1%84%87%E1%85%B2%5D%20CBAM%20%5B2018%5D.pdf)|[CODE](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Classification/MobileNet/mobileNet.py)|
+|**[CBAM](https://blog.naver.com/qkrdnjsrl0628/222831713425)**|2018|Attention Block|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Classification/CBAM/%5B%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B5%E1%84%87%E1%85%B2%5D%20CBAM%20%5B2018%5D.pdf)|[CODE](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Classification/CBAM/CBAM.py)|
 
 ### Object Detection
 
-|Name|Year|Field|
-|---|---|---|
-|**[IOU(Intersection Over Union)](https://blog.naver.com/qkrdnjsrl0628/222815344155)**|None|Metric|
-|**[NMS(None Maximum Suppression)](https://blog.naver.com/qkrdnjsrl0628/222815369995)**|None|Metric|
-|**[mAP(Mean Average Precision)](https://blog.naver.com/qkrdnjsrl0628/222815918455)**|None|Metric|
-|**[R-CNN](https://blog.naver.com/qkrdnjsrl0628/222818945250)**|2013|Detection|
-|**[Faster R-CNN](https://blog.naver.com/qkrdnjsrl0628/222835401836)**|2015|Detection|
-|**[OHEM(Online Hard Example Mining)](https://blog.naver.com/qkrdnjsrl0628/222839193767)**|2016|Detection|
-|**[YOLOv1(You Only Look Once)](https://blog.naver.com/qkrdnjsrl0628/222840608410)**|2016|Detection|
-|**[FPN(Feature Pyramids Network)](https://blog.naver.com/qkrdnjsrl0628/222837350331)**|2017|Detection|
-
-
+|Name|Year|Field|PDF|CODE|
+|---|---|---|---|---|
+|**[IOU(Intersection Over Union)](https://blog.naver.com/qkrdnjsrl0628/222815344155)**|None|Metric|[LINK](https://blog.naver.com/qkrdnjsrl0628/222815344155)|[CODE](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Object%20Detection/Object_detection_Metric.ipynb)|
+|**[NMS(None Maximum Suppression)](https://blog.naver.com/qkrdnjsrl0628/222815369995)**|None|Metric|[LINK](https://blog.naver.com/qkrdnjsrl0628/222815369995)|[CODE](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Object%20Detection/Object_detection_Metric.ipynb)|
+|**[mAP(Mean Average Precision)](https://blog.naver.com/qkrdnjsrl0628/222815918455)**|None|Metric|[LINK](https://blog.naver.com/qkrdnjsrl0628/222815918455)|[CODE](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Object%20Detection/Object_detection_Metric.ipynb)|
+|**[R-CNN](https://blog.naver.com/qkrdnjsrl0628/222818945250)**|2013|Detection|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Object%20Detection/R-CNN/%5B%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B5%E1%84%87%E1%85%B2%5D%20R-CNN%20%5B2013%5D.pdf)|[CODE](https://github.com/kalelpark/AI_REVIEW/tree/main/Vision%20Object%20Detection/R-CNN/RCNN)|
+|**[Faster R-CNN](https://blog.naver.com/qkrdnjsrl0628/222835401836)**|2015|Detection|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Object%20Detection/Faster%20R-CNN/%5B%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0%5D%20Faster%20R-CNN%5B2015%5D.pdf)|[CODE](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Object%20Detection/Faster%20R-CNN/faster-r-cnn.ipynb)|
+|**[OHEM(Online Hard Example Mining)](https://blog.naver.com/qkrdnjsrl0628/222839193767)**|2016|Detection|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Object%20Detection/OHEM/%5B%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0%5D%20OHEM%20%5B2016%5D.pdf)|None|
+|**[YOLOv1(You Only Look Once)](https://blog.naver.com/qkrdnjsrl0628/222840608410)**|2016|Detection|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Object%20Detection/YOLOv1/%5B%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0%5D%20YOLOv1%20%5B2016%5D.pdf)|[CODE](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Object%20Detection/YOLOv1/pytorch-yolov1-scratch.ipynb)|
+|**[FPN(Feature Pyramids Network)](https://blog.naver.com/qkrdnjsrl0628/222837350331)**|2017|Detection|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Object%20Detection/FPN/%5B%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B5%E1%84%87%E1%85%B2%5D%20FPN%20%5B2017%5D.pdf)|None|
 
 
 ### Segmentation
 
-|Name|Year|Field|
-|---|---|---|
-|**[DeepLabV1](https://blog.naver.com/qkrdnjsrl0628/222838265701)**|2014|Segmentation|
-|**[FCN(Fully Convolutional Layer)](https://blog.naver.com/qkrdnjsrl0628/222843708131)**|2015|Segmentation|
+|Name|Year|Field|PDF|CODE|
+|---|---|---|---|---|
+|**[DeepLabV1](https://blog.naver.com/qkrdnjsrl0628/222838265701)**|2014|Segmentation|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Segmentation/DeepLabV1/%5B%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B5%E1%84%87%E1%85%B2%5D%20DeepLabV1%20%5B2014%5D.pdf)|Later|
+|**[FCN(Fully Convolutional Layer)](https://blog.naver.com/qkrdnjsrl0628/222843708131)**|2015|Segmentation|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Segmentation/FCN/%5B%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0%5D%20FCN%20%5B2015%5D.pdf)|None|
 
-<!--|**[LeNet](https://blog.naver.com/qkrdnjsrl0628/222809194992)**|1998|Classification|
-|**[AlexNet](https://blog.naver.com/qkrdnjsrl0628/222813177209)**|2012|Classification|
-|**[VGGNet](https://blog.naver.com/qkrdnjsrl0628/222813654254)**|2014|Classification|-->
 
 ### Generative Adversarial
-|Name|Year|Field|
-|---|---|---|
-|**[Generative Adversarial Nets](https://blog.naver.com/qkrdnjsrl0628/222844575597)**|2014|GAN|
-|**[DCGAN(Deep Conloutional Generative Adversarial Nets)](https://blog.naver.com/qkrdnjsrl0628/222846050013)**|2016|GAN|
+|Name|Year|Field|PDF|CODE|
+|---|---|---|---|---|
+|**[Generative Adversarial Nets](https://blog.naver.com/qkrdnjsrl0628/222844575597)**|2014|GAN|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20GAN/GAN/%5B%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B5%E1%84%87%E1%85%B2%5D%20GAN%20%5B2014%5D.pdf)|[CODE](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20GAN/GAN/GAN_implement.ipynb)|
+|**[DCGAN(Deep Conloutional Generative Adversarial Nets)](https://blog.naver.com/qkrdnjsrl0628/222846050013)**|2016|GAN|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20GAN/DCGAN/%5B%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B5%E1%84%87%E1%85%B2%5D%20DCGAN%20%5B2016%5D.pdf)|[CODE](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20GAN/DCGAN/DCGAN_Baseline.ipynb)|
 
 
 ### BASE
-|Name|
-|---|
-|**[CNN Base](https://github.com/kalelpark/AI_REVIEW/blob/main/1.Base/%5B%20BASE%20%5D%20CNN%20%EC%9D%B4%ED%95%B4.pdf)**|
-|**[Convolutional Mechanism](https://blog.naver.com/qkrdnjsrl0628/222842147356)**|
-|**[TTA(Test Time Augmentation)](https://blog.naver.com/qkrdnjsrl0628/222847125337)**|
+|Name|PDF|
+|---|---|
+|**[CNN Base](https://github.com/kalelpark/AI_REVIEW/blob/main/1.Base/%5B%20BASE%20%5D%20CNN%20%EC%9D%B4%ED%95%B4.pdf)**|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Base/%5B%20BASE%20%5D%20CNN%20%EC%9D%B4%ED%95%B4.pdf)|
+|**[Convolutional Mechanism](https://blog.naver.com/qkrdnjsrl0628/222842147356)**|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Base/Convolutional%20Mechanism.pdf)|
+|**[TTA(Test Time Augmentation)](https://blog.naver.com/qkrdnjsrl0628/222847125337)**|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Base/TTA%20%5BTest%20Time%20Augmentaiton%5D.pdf)|
 
 
 <hr>
 
 # Tabular Data
 
-|Name|Year|Field|
-|---|---|---|
-|**[TabNet](https://blog.naver.com/qkrdnjsrl0628/222836423300)**|2019|Tabular|
+|Name|Year|Field|PDF|CODE|
+|---|---|---|---|---|
+|**[TabNet](https://blog.naver.com/qkrdnjsrl0628/222836423300)**|2019|Tabular|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Tabluar/%5B%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0%5D%20TabNet%20%5B2019%5D.pdf)|[CODE](https://github.com/dreamquark-ai/tabnet)|
 
