@@ -15,6 +15,7 @@
 |**[InceptionNet](https://blog.naver.com/qkrdnjsrl0628/222827718753)**|2015|Classification|
 |**[ResNet](https://blog.naver.com/qkrdnjsrl0628/222828002244)**|2015|Classification|
 |**[DenseNet](https://blog.naver.com/qkrdnjsrl0628/222831048488)**|2017|Classification|
+|**[XceptionNet](https://blog.naver.com/qkrdnjsrl0628/222846595140)**|2017|Classification|
 |**[MobileNet](https://blog.naver.com/qkrdnjsrl0628/222841809802)**|2017|Classification|
 |**[CBAM](https://blog.naver.com/qkrdnjsrl0628/222831713425)**|2018|Attention Block|
 
