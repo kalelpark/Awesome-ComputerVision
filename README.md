@@ -47,6 +47,9 @@
 |---|---|---|---|---|
 |**[Generative Adversarial Nets](https://blog.naver.com/qkrdnjsrl0628/222844575597)**|2014|GAN|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20GAN/GAN/%5B%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B5%E1%84%87%E1%85%B2%5D%20GAN%20%5B2014%5D.pdf)|[CODE](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20GAN/GAN/GAN_implement.ipynb)|
 |**[DCGAN(Deep Conloutional Generative Adversarial Nets)](https://blog.naver.com/qkrdnjsrl0628/222846050013)**|2016|GAN|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20GAN/DCGAN/%5B%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B5%E1%84%87%E1%85%B2%5D%20DCGAN%20%5B2016%5D.pdf)|[CODE](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20GAN/DCGAN/DCGAN_Baseline.ipynb)|
+|**[InfoGAN(Information Maximizing Generative Adversarial Net)](https://blog.naver.com/qkrdnjsrl0628/222851064423)**|2016|GAN|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20GAN/InfoGAN/%5B%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0%5D%20InfoGAN%20%5B2016%5D.pdf)|Later|
+
+
 
 
 ### BASE
