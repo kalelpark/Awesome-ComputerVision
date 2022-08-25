@@ -22,7 +22,7 @@
 |**[Squeeze Excitation Network](https://blog.naver.com/qkrdnjsrl0628/222855514305)**|2018|Classification|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Classification/SENet/%5B%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0%5D%20SENet%20%5B2018%5D.pdf)|[CODE](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Classification/SENet/se_block.py)|
 |**[Residual Attention Network](https://blog.naver.com/qkrdnjsrl0628/222848790030)**|2018|Attention Block|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Classification/Residual%20Attention%20Block/%5B%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0%5D%20Residual%20Attention%20Network%20%5B2017%5D.pdf)|Later|
 |**[CBAM](https://blog.naver.com/qkrdnjsrl0628/222831713425)**|2018|Attention Block|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Classification/CBAM/%5B%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B5%E1%84%87%E1%85%B2%5D%20CBAM%20%5B2018%5D.pdf)|[CODE](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Classification/CBAM/CBAM.py)|
-|**[EfficientNet](https://blog.naver.com/qkrdnjsrl0628/222851815461)**|2019|Classification|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Classification/EfficientNet/%5B%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0%5D%20EfficientNet%20%5B2019%5D.pdf)|Later|
+|**[EfficientNet](https://blog.naver.com/qkrdnjsrl0628/222851815461)**|2019|Classification|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Classification/EfficientNet/%5B%EB%85%BC%EB%AC%B8%EB%A6%AC%EB%B7%B0%5D%20EfficientNet%20%5B2019%5D.pdf)|[CODE](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Classification/EfficientNet/efficientNet_baseline.ipynb)|
 
 
 
