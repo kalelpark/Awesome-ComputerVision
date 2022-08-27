@@ -65,6 +65,9 @@
 |**[CNN Base](https://github.com/kalelpark/AI_REVIEW/blob/main/1.Base/%5B%20BASE%20%5D%20CNN%20%EC%9D%B4%ED%95%B4.pdf)**|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Base/%5B%20BASE%20%5D%20CNN%20%EC%9D%B4%ED%95%B4.pdf)|
 |**[Convolutional Mechanism](https://blog.naver.com/qkrdnjsrl0628/222842147356)**|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Base/Convolutional%20Mechanism.pdf)|
 |**[TTA(Test Time Augmentation)](https://blog.naver.com/qkrdnjsrl0628/222847125337)**|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Base/TTA%20%5BTest%20Time%20Augmentaiton%5D.pdf)|
+|**[Pseudo Label](https://blog.naver.com/qkrdnjsrl0628/222859640950)**|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/utils/Pseudo%20Label/%5B%EB%85%BC%EB%AC%B8%20%EB%A6%AC%EB%B7%B0%5D%20Pseudo%20Label%20%5B2013%5D.pdf)|
+
+
 
 
 <hr>
