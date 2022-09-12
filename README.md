@@ -1,4 +1,4 @@
-# AI REVIEW & Implement
+# AI REVIEW & Implementation
 **🌟If you find any errors or corrections, leave an ISSUE**<br>
 **🌟I saved review as pdf within folder**
 # Computer Vision
