@@ -65,6 +65,7 @@
 |Name|Year|Field|PDF|CODE|
 |---|---|---|---|---|
 |**[SRCNN(Super Resolution)](https://blog.naver.com/qkrdnjsrl0628/222868709478)**|2015|SR|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20SR/SRCNN/%5B%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B5%E1%84%87%E1%85%B2%5D%20SuperResolutionCNN%20%5B2015%5D.pdf)|[CODE](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20SR/SRCNN/SRCNN.py)|
+|EDSR(Enhanced Deep Super Resolution)|2017|SR|Later|[CODE](https://github.com/kalelpark/AI_REVIEW/tree/main/Vision%20SR/EDSR)|
 
 
 
