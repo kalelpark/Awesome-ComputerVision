@@ -69,13 +69,14 @@
 
 
 
-### BASE
-|Name|PDF|
-|---|---|
-|**[CNN Base](https://github.com/kalelpark/AI_REVIEW/blob/main/1.Base/%5B%20BASE%20%5D%20CNN%20%EC%9D%B4%ED%95%B4.pdf)**|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Base/%5B%20BASE%20%5D%20CNN%20%EC%9D%B4%ED%95%B4.pdf)|
-|**[Convolutional Mechanism](https://blog.naver.com/qkrdnjsrl0628/222842147356)**|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Base/Convolutional%20Mechanism.pdf)|
-|**[TTA(Test Time Augmentation)](https://blog.naver.com/qkrdnjsrl0628/222847125337)**|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Base/TTA%20%5BTest%20Time%20Augmentaiton%5D.pdf)|
-|**[Pseudo Label](https://blog.naver.com/qkrdnjsrl0628/222859640950)**|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/utils/Pseudo%20Label/%5B%EB%85%BC%EB%AC%B8%20%EB%A6%AC%EB%B7%B0%5D%20Pseudo%20Label%20%5B2013%5D.pdf)|
+### Utils
+|Name|Year|Field|PDF|CODE|
+|---|---|---|---|---|
+|**[CNN Base](https://github.com/kalelpark/AI_REVIEW/blob/main/1.Base/%5B%20BASE%20%5D%20CNN%20%EC%9D%B4%ED%95%B4.pdf)**|NONE|VISION|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Base/%5B%20BASE%20%5D%20CNN%20%EC%9D%B4%ED%95%B4.pdf)|NONE|
+|**[Convolutional Mechanism](https://blog.naver.com/qkrdnjsrl0628/222842147356)**|NONE|VISION|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Base/Convolutional%20Mechanism.pdf)|NONE|
+|**[TTA(Test Time Augmentation)](https://blog.naver.com/qkrdnjsrl0628/222847125337)**|NONE|VISION|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Base/TTA%20%5BTest%20Time%20Augmentaiton%5D.pdf)|NONE|
+|**[Pseudo Label](https://blog.naver.com/qkrdnjsrl0628/222859640950)**|2013|VISION|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/utils/Pseudo%20Label/%5B%EB%85%BC%EB%AC%B8%20%EB%A6%AC%EB%B7%B0%5D%20Pseudo%20Label%20%5B2013%5D.pdf)|[CODE](https://www.kaggle.com/code/kalelpark/arcface-explained-for-korean)|
+|**[ArcFace](https://blog.naver.com/qkrdnjsrl0628/222876933722)**|2019|VISION|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/utils/arcFace/%5B%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B5%E1%84%87%E1%85%B2%5D%20ArcFace%20%5B2019%5D.pdf)|[CODE](https://github.com/kalelpark/AI_REVIEW/tree/main/utils/arcFace/code)|
 
 
 
