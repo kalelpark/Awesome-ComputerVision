@@ -76,6 +76,7 @@
 |**[Convolutional Mechanism](https://blog.naver.com/qkrdnjsrl0628/222842147356)**|NONE|VISION|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Base/Convolutional%20Mechanism.pdf)|NONE|
 |**[TTA(Test Time Augmentation)](https://blog.naver.com/qkrdnjsrl0628/222847125337)**|NONE|VISION|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/Vision%20Base/TTA%20%5BTest%20Time%20Augmentaiton%5D.pdf)|NONE|
 |**[Pseudo Label](https://blog.naver.com/qkrdnjsrl0628/222859640950)**|2013|VISION|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/utils/Pseudo%20Label/%5B%EB%85%BC%EB%AC%B8%20%EB%A6%AC%EB%B7%B0%5D%20Pseudo%20Label%20%5B2013%5D.pdf)|[CODE](https://www.kaggle.com/code/kalelpark/arcface-explained-for-korean)|
+|**[Transformer[Attention]](https://blog.naver.com/qkrdnjsrl0628/222882707143)**|2013|VISION|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/utils/Attention/%5B%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%20%E1%84%85%E1%85%B5%E1%84%87%E1%85%B2%5DTransformer%20%5BAttention%5D%20%5B2017%5D.pdf)|NONE|
 |**[ArcFace](https://blog.naver.com/qkrdnjsrl0628/222876933722)**|2019|VISION|[PDF](https://github.com/kalelpark/AI_REVIEW/blob/main/utils/arcFace/%5B%E1%84%82%E1%85%A9%E1%86%AB%E1%84%86%E1%85%AE%E1%86%AB%E1%84%85%E1%85%B5%E1%84%87%E1%85%B2%5D%20ArcFace%20%5B2019%5D.pdf)|[CODE](https://github.com/kalelpark/AI_REVIEW/tree/main/utils/arcFace/code)|
 
 
