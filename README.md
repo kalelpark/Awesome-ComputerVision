@@ -83,6 +83,7 @@ Thank you for lot of attention.
     title = {Awesome ComputerVision},
     author = {Wongi Park},
     journal = {GitHub},
+    url = {https://github.com/kalelpark/Awesome-ComputerVision},
     year = {2022},
 }
 ```
