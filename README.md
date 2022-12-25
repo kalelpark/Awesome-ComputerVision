@@ -6,7 +6,6 @@ Thank you for lot of attention.
 
 ## Table of Contents
 - [Image Classification](#Image-Classification)
-
 - [Object Detection](#Object-Detection)
 - [Semantic Segmentation](#Semantic-Segmentation)
 - [Fine Grained Visual Categorization](#Fine-Grained-Visual-Categorization)
