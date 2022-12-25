@@ -11,8 +11,6 @@ Thank you for lot of attention.
 - [Semantic Segmentation](#Semantic-Segmentation)
 - [Fine Grained Visual Categorization](#Fine-Grained-Visual-Categorization)
 
-<br>
-
 ## Image Classification
 
 |Year|Name|Arxiv|CODE|
@@ -40,8 +38,6 @@ Thank you for lot of attention.
 |2022|ConvNeXt : A ConvNet for the 2020s|[PDF](https://arxiv.org/pdf/2201.03545.pdf)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/kalelpark/review-a-convnet-for-the-2020s)|
 
 
-<br>
-
 ## Object Detection
 
 |Year|Name|Arxiv|CODE|
@@ -52,8 +48,6 @@ Thank you for lot of attention.
 |2016|YOLOv1 : You Only Look Once: Unified, Real-Time Object Detection|[PDF](https://arxiv.org/pdf/1506.02640.pdf)| [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zoKpnlXeEHMQstd_ivc8mZDSe9oSz0as) [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/vexxingbanana/yolov1-from-scratch-pytorch) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/Tshzzz/pytorch_yolov1)|
 |2016|SSD(Single Shot Detection) : Single Shot MultiBox Detector|[PDF](https://arxiv.org/pdf/1506.01497.pdf)| [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/aman10kr/face-mask-detection-using-ssd) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/amdegroot/ssd.pytorch)|
 |2017|FPN(Feature Pyramids Network) : Feature Pyramid Networks for Object Detection|[PDF](https://arxiv.org/pdf/1506.01497.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/jwyang/fpn.pytorch)|
-
-<br>
 
 ## Semantic Segmentation
 
@@ -67,8 +61,6 @@ Thank you for lot of attention.
 |2019|MultiResUNet : Rethinking the U-Net architecture for multimodal biomedical image segmentation|[PDF](https://arxiv.org/pdf/1902.04049.pdf)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/skorpion21/multiresunet)[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/nibtehaz/MultiResUNet)|
 |2021|SETR : Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers|[PDF](https://arxiv.org/pdf/2012.15840.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/fudan-zvg/SETR)|
 |2021|UTNet : A Hybrid Transformer Architecture for Medical Image Segmentation|[PDF](https://arxiv.org/pdf/2107.00781.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/yhygao/UTNet)|
-
-<br>
 
 ## Fine Grained Visual Categorization
 
