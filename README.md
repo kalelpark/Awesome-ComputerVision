@@ -1,6 +1,6 @@
 # Awesome  ComputerVision ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 This repository is a collection of useful materials for artificial intelligence. <br>
-The Update will continue, and if you want to be a Contributor, I really appreciate it about send me Pull Request. <br>
+The Update will continue, and if you want to be a Contributor, I really appreciate it if send me pull request. <br>
 <br>
 Thank you for lot of attention.
 
