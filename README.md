@@ -1,6 +1,6 @@
 # Awesome  ComputerVision ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-This repository is a collection of useful materials for artificial intelligence. <br>
-The Update will continue, and if you want to be a Contributor, I really appreciate it if send me pull request. <br>
+This repository is a collection of useful materials for Computer Vision. <br>
+The Update will continue, and if you want to be a Contributor, I really appreciate it about send me Pull Request. <br>
 <br>
 Thank you for lot of attention.
 
@@ -9,6 +9,8 @@ Thank you for lot of attention.
 - [Object Detection](#Object-Detection)
 - [Semantic Segmentation](#Semantic-Segmentation)
 - [Fine Grained Visual Categorization](#Fine-Grained-Visual-Categorization)
+- [Meta Learning](#Meta-Learning)
+<br>
 
 ## Image Classification
 
@@ -16,10 +18,10 @@ Thank you for lot of attention.
 |---|---|---|---|
 |1998|LeNet : Gradient-based learning applied to document recognition|[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=726791)|[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bentrevett/pytorch-image-classification/blob/master/2_lenet.ipynb) [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/vincentman0403/pytorch-v0-3-1b-on-mnist-by-lenet) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/activatedgeek/LeNet-5/blob/master/lenet.py)|
 |2012|AlexNet : ImageNet Classification with Deep Convolutional Neural Networks|[PDF](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)|[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/d2l-ai/d2l-en-colab/blob/master/chapter_convolutional-modern/alexnet.ipynb) [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/drvaibhavkumar/alexnet-in-pytorch-cifar10-clas-83-test-accuracy) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/activatedgeek/LeNet-5/blob/master/lenet.py)|
-|2014|VGGNet : Very Deep Convolutional Networks for Large-Scale Image Recognition|[PDF](https://arxiv.org/pdf/1409.1556.pdf)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/datastrophy/vgg16-pytorch-implementation)|
-|2015|GoogLeNet : Going Deeper with Convolutions|[PDF](https://arxiv.org/pdf/1409.4842.pdf)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/ashfakyeafi/googlenet-from-scratch-pytorch)|
-|2015|InceptionNet : Going deeper with convolutions|[PDF](https://arxiv.org/pdf/1409.4842v1.pdf)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/ashfakyeafi/googlenet-from-scratch-pytorch)|
-|2016|ResNet : Deep Residual Learning for Image Recognition|[PDF](https://arxiv.org/abs/1512.03385)|[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bentrevett/pytorch-image-classification/blob/master/5_resnet.ipynb) [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/won6314/resnet-with-pytorch)|
+|2014|VGGNet : Very Deep Convolutional Networks for Large-Scale Image Recognition|[PDF](https://arxiv.org/pdf/1409.1556.pdf)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/datastrophy/vgg16-pytorch-implementation) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/Lornatang/VGG-PyTorch/blob/main/model.py)|
+|2015|GoogLeNet : Going Deeper with Convolutions|[PDF](https://arxiv.org/pdf/1409.4842.pdf)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/ashfakyeafi/googlenet-from-scratch-pytorch) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/Lornatang/GoogLeNet-PyTorch/blob/main/model.py)|
+|2015|InceptionNet : Going deeper with convolutions|[PDF](https://arxiv.org/pdf/1409.4842v1.pdf)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/ashfakyeafi/googlenet-from-scratch-pytorch) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/google/inception)|
+|2016|ResNet : Deep Residual Learning for Image Recognition|[PDF](https://arxiv.org/abs/1512.03385)|[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bentrevett/pytorch-image-classification/blob/master/5_resnet.ipynb) [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/won6314/resnet-with-pytorch) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/pytorch/vision/blob/main/torchvision/models/resnet.py)|
 |2017|SqueezeNet : AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size|[PDF](https://arxiv.org/abs/1602.07360)|[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sailalitha96/Lung-Nodule-Detection/blob/master/Squeezenet.ipynb) [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/kerimelebiler/digit-recognizer-with-squeezenet)|
 |2017|DenseNet : Densely Connected Convolutional Networks|[PDF](https://arxiv.org/abs/1608.06993)|[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pytorch/pytorch.github.io/blob/master/assets/hub/pytorch_vision_densenet.ipynb) [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/kevfern/densenet-implementation-for-classification#3.-DenseNet)|
 |2017|XceptionNet : Deep Learning with Depthwise Separable Convolutions|[PDF](https://arxiv.org/abs/1610.02357)|[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hiteshhedwig/hedwig-explains/blob/master/_notebooks/2020-10-28-xception-explaination.ipynb) [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/yasserh/xception-implementation)|
@@ -37,6 +39,8 @@ Thank you for lot of attention.
 |2022|ConvNeXt : A ConvNet for the 2020s|[PDF](https://arxiv.org/pdf/2201.03545.pdf)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/kalelpark/review-a-convnet-for-the-2020s)|
 
 
+<br>
+
 ## Object Detection
 
 |Year|Name|Arxiv|CODE|
@@ -47,6 +51,8 @@ Thank you for lot of attention.
 |2016|YOLOv1 : You Only Look Once: Unified, Real-Time Object Detection|[PDF](https://arxiv.org/pdf/1506.02640.pdf)| [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zoKpnlXeEHMQstd_ivc8mZDSe9oSz0as) [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/vexxingbanana/yolov1-from-scratch-pytorch) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/Tshzzz/pytorch_yolov1)|
 |2016|SSD(Single Shot Detection) : Single Shot MultiBox Detector|[PDF](https://arxiv.org/pdf/1506.01497.pdf)| [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/aman10kr/face-mask-detection-using-ssd) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/amdegroot/ssd.pytorch)|
 |2017|FPN(Feature Pyramids Network) : Feature Pyramid Networks for Object Detection|[PDF](https://arxiv.org/pdf/1506.01497.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/jwyang/fpn.pytorch)|
+
+<br>
 
 ## Semantic Segmentation
 
@@ -60,6 +66,8 @@ Thank you for lot of attention.
 |2019|MultiResUNet : Rethinking the U-Net architecture for multimodal biomedical image segmentation|[PDF](https://arxiv.org/pdf/1902.04049.pdf)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/skorpion21/multiresunet)[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/nibtehaz/MultiResUNet)|
 |2021|SETR : Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers|[PDF](https://arxiv.org/pdf/2012.15840.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/fudan-zvg/SETR)|
 |2021|UTNet : A Hybrid Transformer Architecture for Medical Image Segmentation|[PDF](https://arxiv.org/pdf/2107.00781.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/yhygao/UTNet)|
+
+<br>
 
 ## Fine Grained Visual Categorization
 
@@ -76,13 +84,18 @@ Thank you for lot of attention.
 |2021|TransFG : TransFG: A Transformer Architecture for Fine-grained Recognition|[PDF](https://arxiv.org/pdf/2103.07976.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/TACJu/TransFG)|
 |2022|PIM(plug in Module) : A Novel Plug-in Module for Fine-Grained Visual Classification|[PDF](https://arxiv.org/abs/2202.03822)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/chou141253/FGVC-PIM)|
 
+## Meta-Learning
+|Year|Name|Arxiv|CODE|
+|---|---|---|---|
+|2016|One-shot Learning with Memory-Augmented Neural Networks|[PDF](https://arxiv.org/pdf/1605.06065.pdf)|
+|2017|optimization as a model for few-shot learning|[PDF](https://openreview.net/pdf?id=rJY0-Kcll)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/twitter-research/meta-learning-lstm)[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sicara/easy-few-shot-learning/blob/master/notebooks/my_first_few_shot_classifier.ipynb)|
+
 ## How to cite
 ```
 @article = {
     title = {Awesome ComputerVision},
     author = {Wongi Park},
     journal = {GitHub},
-    url = {https://github.com/kalelpark/Awesome-ComputerVision},
     year = {2022},
 }
 ```
