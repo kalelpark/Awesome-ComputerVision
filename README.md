@@ -5,7 +5,7 @@ The Update will continue, and if you want to be a Contributor, I really apprecia
 Thank you for lot of attention.
 
 ## Table of Contents
-- [Image Classification](#Image-Classification)
+- [Image Classificationƒ](#Image-Classification)
 - [Object Detection](#Object-Detection)
 - [Semantic Segmentation](#Semantic-Segmentation)
 - [Fine Grained Visual Categorization](#Fine-Grained-Visual-Categorization)
@@ -93,8 +93,14 @@ Thank you for lot of attention.
 |2020|CIN : Channel Interaction Networks for Fine-Grained Image Categorization|[PDF](https://arxiv.org/pdf/2003.05235.pdf)||
 |2020|LIO(Look-into-Object) : Self-supervised Structure Modeling for Object Recognition|[PDF](https://arxiv.org/pdf/2003.14142.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/JDAI-CV/LIO)|
 |2020|PMG(Progressive Multi Granularity) : Fine-Grained Visual Classification via Progressive Multi-Granularity Training of Jigsaw Patches|[PDF](https://arxiv.org/pdf/2003.03836v3.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/kalelpark/Latest_Progressive-Multi-Granularity-Training-of-Jigsaw-Patches)|
+|2020|PIM(Progressive Image Recognition) : Learning Rich Part Hierarchies With Progressive Attention Networks for Fine-Grained Image Recognition|[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8737007)||
+|2021|CAL(Counterfactual Attention Learning) : Counterfactual Attention Learning for Fine-Grained Visual Categorization and Re-identification|[PDF](https://arxiv.org/pdf/2108.08728.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/raoyongming/CAL)|
 |2021|TransFG : TransFG: A Transformer Architecture for Fine-grained Recognition|[PDF](https://arxiv.org/pdf/2103.07976.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/TACJu/TransFG)|
+|2021|ProtoTrees : Neural Prototype Trees for Interpretable Fine-grained Image Recognition|[PDF](https://arxiv.org/pdf/2012.02046.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/M-Nauta/ProtoTree)|
+|2021|RAMS-Trans : Recurrent Attention Multi-scale Transformer for Fine-grained Image Recognition|[PDF](https://dl.acm.org/doi/pdf/10.1145/3474085.3475561)||
 |2022|PIM(plug in Module) : A Novel Plug-in Module for Fine-Grained Visual Classification|[PDF](https://arxiv.org/abs/2202.03822)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/chou141253/FGVC-PIM)|
+|2022|FeNet : A Spatial Feature-Enhanced Attention Neural Network with High-Order Pooling Representation for Application in Pest and Disease Recognition|[PDF](https://www.mdpi.com/2077-0472/12/4/500)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/btbuIntelliSense/Fe-net/tree/main/Model)|
+|2022|MetaFormer : A Unified Meta Framework for Fine-Grained Recognition|[PDF](https://arxiv.org/pdf/2203.02751.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/dqshuai/MetaFormer)|
 
 ## Meta-Learning
 |Year|Name|Arxiv|CODE|
