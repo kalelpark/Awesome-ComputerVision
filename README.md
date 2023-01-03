@@ -5,7 +5,7 @@ The Update will continue, and if you want to be a Contributor, I really apprecia
 Thank you for lot of attention.
 
 ## Table of Contents
-- [Image Classificationƒ](#Image-Classification)
+- [Image Classification](#Image-Classification)
 - [Object Detection](#Object-Detection)
 - [Semantic Segmentation](#Semantic-Segmentation)
 - [Fine Grained Visual Categorization](#Fine-Grained-Visual-Categorization)
