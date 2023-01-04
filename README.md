@@ -5,7 +5,7 @@ The Update will continue, and if you want to be a Contributor, I really apprecia
 Thank you for lot of attention.
 
 ## Table of Contents
-- [Image Classification](#Image-Classification)
+- [Image Classificationƒ](#Image-Classification)
 - [Object Detection](#Object-Detection)
 - [Semantic Segmentation](#Semantic-Segmentation)
 - [Fine Grained Visual Categorization](#Fine-Grained-Visual-Categorization)
@@ -35,7 +35,8 @@ Thank you for lot of attention.
 |2021|Vision Transformer : An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale|[PDF](https://arxiv.org/pdf/2010.11929.pdf)|[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hirotomusiker/schwert_colab_data_storage/blob/master/notebook/Vision_Transformer_Tutorial.ipynb) [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/manabendrarout/vision-transformer-vit-pytorch-on-tpus-train/notebook) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/google-research/vision_transformer)|
 |2021|Hybrid Swin Transformers : Efficient large-scale image retrieval with deep feature orthogonality and Hybrid-Swin-Transformers|[PDF](https://arxiv.org/pdf/2110.03786.pdf)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/debarshichanda/pytorch-hybrid-swin-transformer-cnn)|
 |2021|Swin Transformer : Hierarchical Vision Transformer using Shifted Windows|[PDF](https://arxiv.org/pdf/2103.14030.pdf)|[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/keras-team/keras-io/blob/master/examples/vision/ipynb/swin_transformers.ipynb) [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/pdochannel/swin-transformer-in-pytorch) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/microsoft/Swin-Transformer)|
-|2022|ConvNeXt : A ConvNet for the 2020s|[PDF](https://arxiv.org/pdf/2201.03545.pdf)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/kalelpark/review-a-convnet-for-the-2020s) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/facebookresearch/ConvNeXt)|
+|2022|ConvNeXt : A ConvNet for the 2020s|[PDF](https://arxiv.org/pdf/2201.03545.pdf)| [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/kalelpark/review-a-convnet-for-the-2020s) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/facebookresearch/ConvNeXt)|
+|2023|ConvNeXt V2: Co-designing and Scaling ConvNets with Masked Autoencoders|[PDF](https://arxiv.org/pdf/2301.00808.pdf)| [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/facebookresearch/ConvNeXt-V2)|
 
 ## Object Detection
 
