@@ -5,18 +5,19 @@ The Update will continue, and if you want to be a Contributor, I really apprecia
 Thank you for lot of attention.
 
 ## Table of Contents
-- [Image Classificationƒ](#Image-Classification)
+- [Image Classification](#Image-Classification)
 - [Object Detection](#Object-Detection)
 - [Semantic Segmentation](#Semantic-Segmentation)
 - [Fine Grained Visual Categorization](#Fine-Grained-Visual-Categorization)
 - [Meta Learning](#Meta-Learning)
+- [Image Self Supervised Learning](#Image-Self-Supervised-Learning)
 
 ## Image Classification
 
 |Year|Name|Arxiv|CODE|
 |---|---|---|---|
 |1998|LeNet : Gradient-based learning applied to document recognition|[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=726791)|[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bentrevett/pytorch-image-classification/blob/master/2_lenet.ipynb) [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/vincentman0403/pytorch-v0-3-1b-on-mnist-by-lenet) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/activatedgeek/LeNet-5/blob/master/lenet.py)|
-|2012|AlexNet : ImageNet Classification with Deep Convolutional Neural Networks|[PDF](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)|[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/d2l-ai/d2l-en-colab/blob/master/chapter_convolutional-modern/alexnet.ipynb) [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/drvaibhavkumar/alexnet-in-pytorch-cifar10-clas-83-test-accuracy) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/dansuh17/alexnet-pytorch/blob/d0c1b1c52296ffcbecfbf5b17e1d1685b4ca6744/model.py#)|
+|2012|AlexNet : ImageNet Classification with Deep Convolutional Neural Networks|[PDF](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)|[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/d2l-ai/d2l-en-colab/blob/master/chapter_convolutional-modern/alexnet.ipynb) [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/drvaibhavkumar/alexnet-in-pytorch-cifar10-clas-83-test-accuracy) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/activatedgeek/LeNet-5/blob/master/lenet.py)|
 |2014|VGGNet : Very Deep Convolutional Networks for Large-Scale Image Recognition|[PDF](https://arxiv.org/pdf/1409.1556.pdf)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/datastrophy/vgg16-pytorch-implementation) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/Lornatang/VGG-PyTorch/blob/main/model.py)|
 |2015|GoogLeNet : Going Deeper with Convolutions|[PDF](https://arxiv.org/pdf/1409.4842.pdf)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/ashfakyeafi/googlenet-from-scratch-pytorch) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/Lornatang/GoogLeNet-PyTorch/blob/main/model.py)|
 |2015|InceptionNet : Going deeper with convolutions|[PDF](https://arxiv.org/pdf/1409.4842v1.pdf)|[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/ashfakyeafi/googlenet-from-scratch-pytorch) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/google/inception)|
@@ -111,12 +112,23 @@ Thank you for lot of attention.
 |2017|A Simple Neural Attentive Meta-Learner|[PDF](https://arxiv.org/pdf/1707.03141.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/eambutu/snail-pytorch)|
 |2017|optimization as a model for few-shot learning|[PDF](https://openreview.net/pdf?id=rJY0-Kcll)|[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sicara/easy-few-shot-learning/blob/master/notebooks/my_first_few_shot_classifier.ipynb) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/twitter-research/meta-learning-lstm)|
 
+## Image Self Supervised Learning
+|Year|Name|Arxiv|CODE|
+|---|---|---|---|
+|2014|Discriminative Unsupervised Feature Learning with Exemplar Convolutional Neural Networks|[PDF](https://arxiv.org/pdf/1406.6909.pdf)||
+|2016|Unsupervised Visual Representation Learning by Context Prediction|[PDF](https://arxiv.org/pdf/1505.05192.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/abhisheksambyal/Self-supervised-learning-by-context-prediction)|
+|2017|Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles|[PDF](https://arxiv.org/pdf/1603.09246.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/bbrattoli/JigsawPuzzlePytorch)|
+|2018|Unsupervised Representation Learning by Predicting Image Rotations|[PDF](https://arxiv.org/pdf/1803.07728.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/facebookresearch/moco)|
+|2020|Momentum Contrast for Unsupervised Visual Representation Learning|[PDF](https://arxiv.org/pdf/1911.05722.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/google-research/simclr)|
+|2020|A Simple Framework for Contrastive Learning of Visual Representations|[PDF](https://arxiv.org/pdf/2002.05709.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/google-research/simclr)|
+|2020|Big Self-Supervised Models are Strong Semi-Supervised Learners|[PDF](https://arxiv.org/pdf/2006.10029.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/google-research/simclr)|
+
 ## How to cite
 ```
 @article = {
     title = {Awesome ComputerVision},
     author = {Wongi Park},
-    journal = {GitHub},
+    url = {https://github.com/kalelpark/Awesome-ComputerVision},
     year = {2022},
 }
 ```
