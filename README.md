@@ -108,9 +108,19 @@ Thank you for lot of attention.
 |Year|Name|Arxiv|CODE|
 |---|---|---|---|
 |2014|Neural Turing Machines|[PDF](https://arxiv.org/pdf/1410.5401.pdf)||
+|2015|Siamese Neural Networks for One-shot Image Recognition|[PDF](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/SoongE/siamese-one-shot-pytorch)|
+|2016|Matching Networks for One Shot Learning|[PDF](https://arxiv.org/pdf/1410.5401.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/facebookresearch/low-shot-shrink-hallucinate/blob/main/matching_network.py)|
+|2016|Learning to learn by gradient descent by gradient descent|[PDF](https://arxiv.org/pdf/1606.04474.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/yangsenius/learning-to-learn-by-pytorch)|
 |2016|One-shot Learning with Memory-Augmented Neural Networks|[PDF](https://arxiv.org/pdf/1605.06065.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/tristandeleu/ntm-one-shot)|
 |2017|A Simple Neural Attentive Meta-Learner|[PDF](https://arxiv.org/pdf/1707.03141.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/eambutu/snail-pytorch)|
+|2017|Meta Networks|[PDF](https://arxiv.org/pdf/1703.00837.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://bitbucket.org/tsendeemts/metanet/src/master/)|
+|2017|ProtoNet : Prototypical Networks for Few-shot Learning|[PDF](https://proceedings.neurips.cc/paper/2017/file/cb8da6767461f2812ae4290eac7cbc42-Paper.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/jakesnell/prototypical-networks)|
+|2017|RelationNet : Learning to Compare: Relation Network for Few-Shot Learning|[PDF](https://arxiv.org/pdf/1711.06025.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/floodsung/LearningToCompare_FSL)|
 |2017|optimization as a model for few-shot learning|[PDF](https://openreview.net/pdf?id=rJY0-Kcll)|[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sicara/easy-few-shot-learning/blob/master/notebooks/my_first_few_shot_classifier.ipynb) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/twitter-research/meta-learning-lstm)|
+|2017|MAML : Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks|[PDF](https://arxiv.org/pdf/1703.03400v3.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/cbfinn/maml/blob/a7f45f1bcd7457fe97b227a21e89b8a82cc5fa49/maml.py#L17)|
+|2017|Meta-SGD: Learning to Learn Quickly for Few-Shot Learning|[PDF](https://arxiv.org/pdf/1707.09835v2.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/learnables/learn2learn/blob/master/learn2learn/algorithms/meta_sgd.py)|
+|2019|R2-D2/LR-D2 : Meta-learning with differentiable closed-form solvers|[PDF](https://arxiv.org/pdf/1805.08136.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/bertinetto/r2d2)|
+|2019|MetaOptNet : Meta-Learning with Differentiable Convex Optimization|[PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Lee_Meta-Learning_With_Differentiable_Convex_Optimization_CVPR_2019_paper.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/kjunelee/MetaOptNet)|
 
 ## Image Self Supervised Learning
 |Year|Name|Arxiv|CODE|
@@ -119,9 +129,12 @@ Thank you for lot of attention.
 |2016|Unsupervised Visual Representation Learning by Context Prediction|[PDF](https://arxiv.org/pdf/1505.05192.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/abhisheksambyal/Self-supervised-learning-by-context-prediction)|
 |2017|Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles|[PDF](https://arxiv.org/pdf/1603.09246.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/bbrattoli/JigsawPuzzlePytorch)|
 |2018|Unsupervised Representation Learning by Predicting Image Rotations|[PDF](https://arxiv.org/pdf/1803.07728.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/facebookresearch/moco)|
+|2019|Revisiting self-supervised visual representation learning|[PDF](https://arxiv.org/pdf/1901.09005.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/google/revisiting-self-supervised)|
 |2020|Momentum Contrast for Unsupervised Visual Representation Learning|[PDF](https://arxiv.org/pdf/1911.05722.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/google-research/simclr)|
-|2020|A Simple Framework for Contrastive Learning of Visual Representations|[PDF](https://arxiv.org/pdf/2002.05709.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/google-research/simclr)|
+|2020|A Simple Framework for Contrastive Learning of Visual Representations|[PDF](https://arxiv.org/pdf/2002.05709.pdf)|[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UK8BD3xvTpuSj75blz8hThfXksh19YbA?usp=sharing#scrollTo=-2hkbQR2TtP-) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/google-research/simclr)|
 |2020|Big Self-Supervised Models are Strong Semi-Supervised Learners|[PDF](https://arxiv.org/pdf/2006.10029.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/google-research/simclr)|
+
+
 
 ## How to cite
 ```
