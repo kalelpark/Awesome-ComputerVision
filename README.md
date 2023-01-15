@@ -137,6 +137,12 @@ Thank you for lot of attention.
 |2020|Momentum Contrast for Unsupervised Visual Representation Learning|[PDF](https://arxiv.org/pdf/1911.05722.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/google-research/simclr)|
 |2020|A Simple Framework for Contrastive Learning of Visual Representations|[PDF](https://arxiv.org/pdf/2002.05709.pdf)|[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UK8BD3xvTpuSj75blz8hThfXksh19YbA?usp=sharing#scrollTo=-2hkbQR2TtP-) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/google-research/simclr)|
 |2020|Big Self-Supervised Models are Strong Semi-Supervised Learners|[PDF](https://arxiv.org/pdf/2006.10029.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/google-research/simclr)|
+|2020|MocoV2 : Improved Baselines with Momentum Contrastive Learning|[PDF](https://arxiv.org/pdf/2003.04297.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/Seonghoon-Yu/MoCov2_Pytorch_tutorial)|
+|2020|BYOL : Bootstrap Your Own Latent A New Approach to Self-Supervised Learning|[PDF](https://arxiv.org/pdf/2006.07733.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/deepmind/deepmind-research/tree/master/byol)|
+|2020|Simsiam : Exploring Simple Siamese Representation Learning|[PDF](https://arxiv.org/pdf/2011.10566.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/facebookresearch/simsiam)|
+|2021|Barlow twins : Self-Supervised Learning via Redundancy Reduction|[PDF](https://arxiv.org/pdf/2103.03230.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/facebookresearch/barlowtwins)|
+|2021|Jigsaw Clustering for Unsupervised Visual Representation Learning|[PDF](https://arxiv.org/pdf/2104.00323.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/dvlab-research/JigsawClustering)|
+|2022|Tailoring Self-Supervision for Supervised Learning|[PDF](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850342.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/wjun0830/Localizable-Rotation)|
 
 
 
