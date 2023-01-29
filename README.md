@@ -2,7 +2,7 @@
 This repository is a collection of useful materials for Computer Vision. <br>
 The Update will continue, and if you want to be a Contributor, I really appreciate it about send me Pull Request. <br>
 ### Contributing
-Contributions welcome! Read the [contribution guidelines](contributing.md) first. Thank you for lot of attention.
+Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first. Thank you for lot of attention.
 ## Table of Contents
 - [Image Classification](#Image-Classification)
 - [Object Detection](#Object-Detection)
