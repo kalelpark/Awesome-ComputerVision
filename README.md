@@ -128,6 +128,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 |2019|MetaOptNet : Meta-Learning with Differentiable Convex Optimization|[PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Lee_Meta-Learning_With_Differentiable_Convex_Optimization_CVPR_2019_paper.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/kjunelee/MetaOptNet)|
 
 ## Image Self Supervised Learning
+
 |Year|Name|Arxiv|CODE|
 |---|---|---|---|
 |2014|Discriminative Unsupervised Feature Learning with Exemplar Convolutional Neural Networks|[PDF](https://arxiv.org/pdf/1406.6909.pdf)||
@@ -135,6 +136,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 |2017|Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles|[PDF](https://arxiv.org/pdf/1603.09246.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/bbrattoli/JigsawPuzzlePytorch)|
 |2018|Unsupervised Representation Learning by Predicting Image Rotations|[PDF](https://arxiv.org/pdf/1803.07728.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/facebookresearch/moco)|
 |2019|Revisiting self-supervised visual representation learning|[PDF](https://arxiv.org/pdf/1901.09005.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/google/revisiting-self-supervised)|
+|2019|PIRL: Self-Supervised Learning of Pretext-Invariant Representations|[PDF](https://arxiv.org/pdf/1912.01991.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/akwasigroch/Pretext-Invariant-Representations)|
 |2020|Momentum Contrast for Unsupervised Visual Representation Learning|[PDF](https://arxiv.org/pdf/1911.05722.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/google-research/simclr)|
 |2020|A Simple Framework for Contrastive Learning of Visual Representations|[PDF](https://arxiv.org/pdf/2002.05709.pdf)|[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UK8BD3xvTpuSj75blz8hThfXksh19YbA?usp=sharing#scrollTo=-2hkbQR2TtP-) [![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/google-research/simclr)|
 |2020|Big Self-Supervised Models are Strong Semi-Supervised Learners|[PDF](https://arxiv.org/pdf/2006.10029.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/google-research/simclr)|
@@ -143,7 +145,9 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 |2020|Simsiam : Exploring Simple Siamese Representation Learning|[PDF](https://arxiv.org/pdf/2011.10566.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/facebookresearch/simsiam)|
 |2021|Barlow twins : Self-Supervised Learning via Redundancy Reduction|[PDF](https://arxiv.org/pdf/2103.03230.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/facebookresearch/barlowtwins)|
 |2021|Jigsaw Clustering for Unsupervised Visual Representation Learning|[PDF](https://arxiv.org/pdf/2104.00323.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/dvlab-research/JigsawClustering)|
+|2021|Masked Autoencoders Are Scalable Vision Learners|[PDF](https://arxiv.org/pdf/2111.06377.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/facebookresearch/mae)|
 |2022|Tailoring Self-Supervision for Supervised Learning|[PDF](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850342.pdf)|[![GitHub](https://badges.aleen42.com/src/github.svg)](https://github.com/wjun0830/Localizable-Rotation)|
+
 
 
 
